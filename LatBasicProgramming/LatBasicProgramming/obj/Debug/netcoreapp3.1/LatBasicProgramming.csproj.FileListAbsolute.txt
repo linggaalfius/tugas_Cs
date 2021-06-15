@@ -1,0 +1,13 @@
+C:\Users\Alfius\source\repos\LatBasicProgramming\LatBasicProgramming\bin\Debug\netcoreapp3.1\LatBasicProgramming.exe
+C:\Users\Alfius\source\repos\LatBasicProgramming\LatBasicProgramming\bin\Debug\netcoreapp3.1\LatBasicProgramming.deps.json
+C:\Users\Alfius\source\repos\LatBasicProgramming\LatBasicProgramming\bin\Debug\netcoreapp3.1\LatBasicProgramming.runtimeconfig.json
+C:\Users\Alfius\source\repos\LatBasicProgramming\LatBasicProgramming\bin\Debug\netcoreapp3.1\LatBasicProgramming.runtimeconfig.dev.json
+C:\Users\Alfius\source\repos\LatBasicProgramming\LatBasicProgramming\bin\Debug\netcoreapp3.1\LatBasicProgramming.dll
+C:\Users\Alfius\source\repos\LatBasicProgramming\LatBasicProgramming\bin\Debug\netcoreapp3.1\LatBasicProgramming.pdb
+C:\Users\Alfius\source\repos\LatBasicProgramming\LatBasicProgramming\obj\Debug\netcoreapp3.1\LatBasicProgramming.csproj.AssemblyReference.cache
+C:\Users\Alfius\source\repos\LatBasicProgramming\LatBasicProgramming\obj\Debug\netcoreapp3.1\LatBasicProgramming.AssemblyInfoInputs.cache
+C:\Users\Alfius\source\repos\LatBasicProgramming\LatBasicProgramming\obj\Debug\netcoreapp3.1\LatBasicProgramming.AssemblyInfo.cs
+C:\Users\Alfius\source\repos\LatBasicProgramming\LatBasicProgramming\obj\Debug\netcoreapp3.1\LatBasicProgramming.csproj.CoreCompileInputs.cache
+C:\Users\Alfius\source\repos\LatBasicProgramming\LatBasicProgramming\obj\Debug\netcoreapp3.1\LatBasicProgramming.dll
+C:\Users\Alfius\source\repos\LatBasicProgramming\LatBasicProgramming\obj\Debug\netcoreapp3.1\LatBasicProgramming.pdb
+C:\Users\Alfius\source\repos\LatBasicProgramming\LatBasicProgramming\obj\Debug\netcoreapp3.1\LatBasicProgramming.genruntimeconfig.cache
