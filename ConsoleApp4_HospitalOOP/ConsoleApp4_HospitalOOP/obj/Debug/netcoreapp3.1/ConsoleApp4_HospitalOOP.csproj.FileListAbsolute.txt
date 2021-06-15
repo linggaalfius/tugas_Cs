@@ -1,0 +1,13 @@
+C:\Users\Alfius\source\repos\ConsoleApp4_HospitalOOP\ConsoleApp4_HospitalOOP\bin\Debug\netcoreapp3.1\ConsoleApp4_HospitalOOP.exe
+C:\Users\Alfius\source\repos\ConsoleApp4_HospitalOOP\ConsoleApp4_HospitalOOP\bin\Debug\netcoreapp3.1\ConsoleApp4_HospitalOOP.deps.json
+C:\Users\Alfius\source\repos\ConsoleApp4_HospitalOOP\ConsoleApp4_HospitalOOP\bin\Debug\netcoreapp3.1\ConsoleApp4_HospitalOOP.runtimeconfig.json
+C:\Users\Alfius\source\repos\ConsoleApp4_HospitalOOP\ConsoleApp4_HospitalOOP\bin\Debug\netcoreapp3.1\ConsoleApp4_HospitalOOP.runtimeconfig.dev.json
+C:\Users\Alfius\source\repos\ConsoleApp4_HospitalOOP\ConsoleApp4_HospitalOOP\bin\Debug\netcoreapp3.1\ConsoleApp4_HospitalOOP.dll
+C:\Users\Alfius\source\repos\ConsoleApp4_HospitalOOP\ConsoleApp4_HospitalOOP\bin\Debug\netcoreapp3.1\ConsoleApp4_HospitalOOP.pdb
+C:\Users\Alfius\source\repos\ConsoleApp4_HospitalOOP\ConsoleApp4_HospitalOOP\obj\Debug\netcoreapp3.1\ConsoleApp4_HospitalOOP.csproj.AssemblyReference.cache
+C:\Users\Alfius\source\repos\ConsoleApp4_HospitalOOP\ConsoleApp4_HospitalOOP\obj\Debug\netcoreapp3.1\ConsoleApp4_HospitalOOP.AssemblyInfoInputs.cache
+C:\Users\Alfius\source\repos\ConsoleApp4_HospitalOOP\ConsoleApp4_HospitalOOP\obj\Debug\netcoreapp3.1\ConsoleApp4_HospitalOOP.AssemblyInfo.cs
+C:\Users\Alfius\source\repos\ConsoleApp4_HospitalOOP\ConsoleApp4_HospitalOOP\obj\Debug\netcoreapp3.1\ConsoleApp4_HospitalOOP.csproj.CoreCompileInputs.cache
+C:\Users\Alfius\source\repos\ConsoleApp4_HospitalOOP\ConsoleApp4_HospitalOOP\obj\Debug\netcoreapp3.1\ConsoleApp4_HospitalOOP.dll
+C:\Users\Alfius\source\repos\ConsoleApp4_HospitalOOP\ConsoleApp4_HospitalOOP\obj\Debug\netcoreapp3.1\ConsoleApp4_HospitalOOP.pdb
+C:\Users\Alfius\source\repos\ConsoleApp4_HospitalOOP\ConsoleApp4_HospitalOOP\obj\Debug\netcoreapp3.1\ConsoleApp4_HospitalOOP.genruntimeconfig.cache
